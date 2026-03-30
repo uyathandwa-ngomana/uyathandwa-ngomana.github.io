@@ -1,7 +1,4 @@
 # Uyathandwa Ngomana  
-**Final Year ICT Application Development Student | Aspiring Software Developer**
-
----
 
 ## 👋 About Me
 I am a final-year ICT student at CPUT with a strong foundation in software development and problem solving.  
@@ -9,18 +6,23 @@ I enjoy building structured, efficient solutions using Java, Python, and SQL, an
 
 ---
 
-## 📄 Documents
+## 📄My Resume
 
-- [Download CV (PDF)](UYATHANDWACV.pdf)  
+([UYATHANDWACV.pdf](https://github.com/uyathandwa-ngomana/uyathandwa-ngomana.github.io/blob/main/UYATHANDWA%20CV.pdf))  
 
 ---
 
 ## 💻 Skills
-- Java, Python, SQL, HTML  
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JAVASCRIPT  
 - Object-Oriented Programming (OOP)  
 - Database fundamentals (SQL, JDBC)  
 - Basic troubleshooting & technical support  
-- Git, GitHub, IntelliJ, NetBeans  
+- Git & GitHub 
 
 ---
 
