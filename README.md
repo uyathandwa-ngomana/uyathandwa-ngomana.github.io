@@ -1,55 +1,51 @@
-# Uyathandwa Ngomana
-> **Final Year ICT Application Development Student | Aspiring Software Developer**
+# Uyathandwa Ngomana  
+**Final Year ICT Application Development Student | Aspiring Software Developer**
 
 ---
 
-## 👋 Welcome to my Portfolio
-I am a final-year ICT student at CPUT, passionate about building efficient, user-centric applications. My expertise lies in **Java, Python, and SQL**, with a strong focus on **Object-Oriented Programming (OOP)** and **Database Design**.
+## 👋 About Me
+I am a final-year ICT student at CPUT with a strong foundation in software development and problem solving.  
+I enjoy building structured, efficient solutions using Java, Python, and SQL, and I am currently looking for an internship or junior developer role.
 
 ---
 
-## 📄 Professional Documents
-*Looking for my full background? You can view or download my comprehensive CV below:*
+## 📄 Documents
 
-- 📥 **[View My Full CV (Markdown)](cv.md)**
-- 📥 **[Download My Full CV (PDF)](UYATHANDWACV.pdf)**
+- [Download CV (PDF)](UYATHANDWACV.pdf)  
 
 ---
 
-## 💪 Key Strengths
-- **Analytical Problem Solving:** Proven ability to diagnose and resolve technical issues under pressure.
-- **Adaptability & Resilience:** Committed to continuous learning and mastering new technologies.
-- **Effective Communication:** Skilled at bridging the gap between technical and non-technical users.
-- **Attention to Detail:** Focused on writing clean, efficient, and well-documented code.
+## 💻 Skills
+- Java, Python, SQL, HTML  
+- Object-Oriented Programming (OOP)  
+- Database fundamentals (SQL, JDBC)  
+- Basic troubleshooting & technical support  
+- Git, GitHub, IntelliJ, NetBeans  
 
 ---
 
-## 🌟 Personal Interests
-- **Cloud Computing:** Exploring the future of scalable, cloud-native applications.
-- **UI/UX Design:** Creating intuitive interfaces that enhance the user experience.
-- **Community Tech Support:** Helping others navigate technology and bridging the digital divide.
-- **Continuous Learning:** Staying updated with the latest trends in Java and Python development.
+## 🎓 Education
+**Diploma in ICT Application Development** – CPUT (2024 – Present)  
+**Higher Certificate in ICT** – CPUT (2023)  
 
 ---
 
-## 🎥 My Mock Interview Video
-
-[Click here to watch my Mock Interview Video](YOUR_VIDEO_LINK_HERE)
-
----
-
-## 🛠 Technical Stack
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Java, Python, SQL, HTML |
-| **Tools** | Git, GitHub, NetBeans, IntelliJ |
-| **Methodologies** | Agile/Scrum, OOP, SDLC |
+## 🎥 Mock Interview
+[Watch my mock interview](YOUR_VIDEO_LINK_HERE)
 
 ---
 
-## 📞 Get In Touch
-- **Email:** [231173229@mycput.ac.za](mailto:231173229@mycput.ac.za)
-- **LinkedIn:** [linkedin.com/in/uyathandwa](https://linkedin.com/in/uyathandwa )
-- **GitHub:** [github.com/uyathandwa](https://github.com/uyathandwa )
+## 🧠 Reflection
+This module helped me understand how to present myself professionally using GitHub and Markdown.
 
+At first, I struggled with structuring my portfolio and using GitHub correctly. Through practice, I improved my ability to organise content clearly and present my skills in a professional way.
 
+This experience has prepared me for real work environments and improved my confidence in applying for opportunities.
+
+---
+
+## 📞 Contact
+- Email: 231173229@mycput.ac.za  
+- Phone: 0655679601  
+- LinkedIn: https://linkedin.com/in/uyathandwa  
+- GitHub: https://github.com/uyathandwa  
