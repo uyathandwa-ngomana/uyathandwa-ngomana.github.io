@@ -31,7 +31,7 @@ I enjoy building structured, efficient solutions using Java, Python, and SQL, an
 ---
 
 ## 🎥 Mock Interview
-Watch my mock interview. (mock interview video.mp4)
+ [(mock interview video.mp4)](https://drive.google.com/file/d/1mwJAK7e-f8Vo_PLwxaPIYtk5m17eSH7n/view?usp=sharing)
 
 ---
 
