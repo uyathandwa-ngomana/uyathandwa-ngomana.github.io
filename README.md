@@ -79,5 +79,9 @@ I am a final-year ICT Application Development student at CPUT with a strong foun
 
 ## 🎥 Mock Interview Video
 
-<video width="600" controls src="mock-interview.mp4">
-</video>
+<div align="center">
+  <video width="600" controls preload="metadata">
+    <source src="mock-interview.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
