@@ -79,5 +79,5 @@ I am a final-year ICT Application Development student at CPUT with a strong foun
 
 ## 🎥 Mock Interview Video
 
-<video width="600" controls src="mock-interview-video.mp4">
+<video width="600" controls src="mock-interview.mp4">
 </video>
