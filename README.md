@@ -1,53 +1,84 @@
-# Uyathandwa Ngomana  
-
-## 👋 About Me
-I am a final-year ICT student at CPUT with a strong foundation in software development and problem solving.  
-I enjoy building structured, efficient solutions using Java, Python, and SQL, and I am currently looking for an internship or junior developer role.
+# Uyathandwa Ngomana
+### Software Developer
 
 ---
 
-## 📄My Resume
-
-([UYATHANDWACV.pdf](https://github.com/uyathandwa-ngomana/uyathandwa-ngomana.github.io/blob/main/UYATHANDWA%20CV.pdf))  
+## 👨‍💻 Profile
+I am a final-year ICT Application Development student at CPUT with a strong foundation in Java, Python, and SQL. I have experience in object-oriented programming and technical support. I am seeking an internship or junior developer opportunity to gain real-world experience and grow my skills in a professional environment.
 
 ---
 
-## 💻 Skills
-- Java
-- Python
-- SQL
-- HTML
-- CSS
-- JAVASCRIPT  
-- Object-Oriented Programming (OOP)  
-- Database fundamentals (SQL, JDBC)  
-- Basic troubleshooting & technical support  
-- Git & GitHub 
+## 💼 Work Experience
+
+### 🟢 Internet Café Assistant  
+**Uitenhage, Eastern Cape | 2022 – 2023**
+- Assisted customers with basic computer and internet troubleshooting  
+- Provided support for printing and scanning services  
+- Managed cash transactions and daily balancing  
+- Developed strong communication and problem-solving skills  
 
 ---
 
 ## 🎓 Education
-**Diploma in ICT Application Development** – CPUT (2024 – Present)  
-**Higher Certificate in ICT** – CPUT (2023)  
+
+### Cape Peninsula University of Technology  
+**Diploma in ICT Application Development**  
+*2024 – Present*
+
+### Cape Peninsula University of Technology  
+**Higher Certificate in ICT**  
+*2023*
+
+### Solomon Mahlangu Senior Secondary School  
+**National Senior Certificate (Matric)**  
+*2022*
 
 ---
 
-## 🎥 Mock Interview
- [(mock interview video.mp4)](https://drive.google.com/file/d/1mwJAK7e-f8Vo_PLwxaPIYtk5m17eSH7n/view?usp=sharing)
+## 🛠️ Skills
 
----
-
-## 🧠 Reflection
-This module helped me understand how to present myself professionally using GitHub and Markdown.
-
-At first, I struggled with structuring my portfolio and using GitHub correctly. Through practice, I improved my ability to organise content clearly and present my skills in a professional way.
-
-This experience has prepared me for real work environments and improved my confidence in applying for opportunities.
+- Java  
+- Python  
+- SQL  
+- HTML  
+- Object-Oriented Programming (OOP)  
+- Basic troubleshooting and technical support  
+- Git  
+- GitHub  
 
 ---
 
 ## 📞 Contact
-- Email: 231173229@mycput.ac.za  
-- Phone: 0655679601  
-- LinkedIn: https://linkedin.com/in/uyathandwa  
-- GitHub: https://github.com/uyathandwa  
+
+- 📱 Phone: 0655679601  
+- 📧 Email: 231173229@mycput.ac.za  
+- 📍 Location: Cape Town, Western Cape  
+
+---
+
+## 🔗 Links
+
+- [LinkedIn](https://linkedin.com/in/uyathandwa)  
+- [GitHub](https://github.com/uyathandwa)  
+
+---
+
+## 📌 References
+
+### Mrs. LF Vumazonke  
+- 📞 Phone: 0655679601  
+- 📧 Email: vumazonkelumka@gmail.com  
+- 🏢 Solomon Mahlangu Senior Secondary School  
+
+---
+
+### Pastor Mncedisi Jimmy Nobadula  
+- 📞 Phone: +27 82 066 1354  
+- 🏢 New Apostolic Church  
+
+---
+
+## 🎥 Mock Interview Video
+
+<video width="600" controls src="mock interview video.mp4">
+</video>
