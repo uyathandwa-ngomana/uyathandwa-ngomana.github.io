@@ -58,9 +58,8 @@ I am a final-year ICT Application Development student at CPUT with a strong foun
 
 ## 🔗 Links
 
-- [LinkedIn](https://linkedin.com/in/uyathandwa)  
-- [GitHub](https://github.com/uyathandwa)  
-
+- [LinkedIn](https://www.linkedin.com/in/uyathandwa-ngomana)  
+- [GitHub](https://github.com/uyathandwa-ngomana)  
 ---
 
 ## 📌 References
