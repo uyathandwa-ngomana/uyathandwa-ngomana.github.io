@@ -61,3 +61,7 @@ My contribution included investigating backend errors and testing how the system
 
 - [View Evidence](Agile-Logbook/Evidence.md)
 - [Reflection](Agile-Logbook/Reflection.md)
+
+## GitHub Repository and Portfolio Evidence
+
+![GitHub repository showing the portfolio folders, evidence files, reflections, and README](<Screenshot 2026-10-27 214542.png>)
