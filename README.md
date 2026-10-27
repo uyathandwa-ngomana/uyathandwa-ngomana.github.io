@@ -1,122 +1,76 @@
-# Uyathandwa Ngomana
-### Software Developer
 
----
+# Industry Placement GitHub Portfolio
 
-## 👨‍💻 Profile
-I am a final-year ICT Application Development student at CPUT with a strong foundation in Java, Python, and SQL. I have experience in object-oriented programming and technical support. I am seeking an internship or junior developer opportunity to gain real-world experience and grow my skills in a professional environment.
+## Uyathandwa Ngomana — Project Presentation 3 (PRP372S)
 
----
+A portfolio of project evidence and reflections for **Project Presentation 3 (PRP372S)** at Cape Peninsula University of Technology.
 
-## 💼 Work Experience
+## Student Details
 
-### 🟢 Internet Café Assistant  
-**Uitenhage, Eastern Cape | 2022 – 2023**
-- Assisted customers with basic computer and internet troubleshooting  
-- Provided support for printing and scanning services  
-- Managed cash transactions and daily balancing  
-- Developed strong communication and problem-solving skills  
+- **Name and Surname:** Uyathandwa Ngomana
+- **Student Number:** 231173229
+- **Institution:** Cape Peninsula University of Technology
+- **Course:** Diploma in ICT Application Development
+- **Module:** Project Presentation 3
+- **Module Code:** PRP372S
 
----
+## Project Overview
 
-## 🎓 Education
+This portfolio documents my project work, development activities, testing, and learning experiences. It includes evidence of Agile planning, user stories, backlog management, sprint activities, and reflections on my contributions.
 
-### Cape Peninsula University of Technology  
-**Diploma in ICT Application Development**  
-*2024 – Present*
+I worked on two projects:
 
-### Cape Peninsula University of Technology  
-**Higher Certificate in ICT**  
-*2023*
+- **ProKonecta** — A services marketplace that connects customers with professionals. Customers can post service requests, compare quotes, communicate with professionals, and manage jobs. Professionals can create profiles, respond to requests, and build their reputation through customer reviews.
+- **CommunityPulse AI** — A project I contributed to for approximately one week, focusing on development and testing activities.
 
-### Solomon Mahlangu Senior Secondary School  
-**National Senior Certificate (Matric)**  
-*2022*
+## ProKonecta
 
----
+ProKonecta aims to make it easier for customers to find suitable professionals and for professionals to connect with potential customers.
 
-## Skills
+My contribution included investigating backend errors and testing how the system works. This helped me understand the importance of backend reliability and checking application behaviour during development.
 
-**Technical:** Python | Java | JavaScript | Flask | React | HTML | CSS | SQL | OOP | SQLAlchemy | Bootstrap
+## Technology Stack
 
-**Tools:** Power BI | DAX | Git | GitHub | NetBeans | IntelliJ IDEA | Microsoft Office
+### Backend and Database
 
-**Soft Skills:** Problem Solving | Team Collaboration | Communication | Fast Learner | Attention to Detail
+- **Next.js** — Used for application development and backend API routes.
+- **PostgreSQL** — Used for database storage.
+- **REST APIs** — Support communication between the frontend and backend.
 
+### Development and Testing
 
----
+- **Git and GitHub** — Used for source control and project collaboration.
+- **Testing and debugging** — Used to investigate application behaviour and identify errors.
 
-## 📞 Contact
+## Project Links
 
-- 📱 Phone: 0655679601  
-- 📧 Email: 231173229@mycput.ac.za  
-- 📍 Location: Cape Town, Western Cape  
+- **GitHub Profile:** [uyathandwa-ngomana](https://github.com/uyathandwa-ngomana)
+- **Portfolio Repository:** [uyathandwa-ngomana.github.io](https://github.com/uyathandwa-ngomana/uyathandwa-ngomana.github.io)
+- **Live Portfolio:** [uyathandwa-ngomana.github.io](https://uyathandwa-ngomana.github.io/)
 
----
+## Portfolio Sections
 
-## 🔗 Links
+### 1. Agile Team Charter
 
-- [LinkedIn](https://www.linkedin.com/in/uyathandwa-ngomana)  
-- [GitHub](https://github.com/uyathandwa-ngomana)  
----
+- [View Evidence](agile_team_charter/index.md)
+- [Reflection](agile_team_charter/reflection.md)
 
-## 📌 References
+### 2. User Stories and Tasks
 
-### Mrs. LF Vumazonke  
-- 📞 Phone: 0655679601  
-- 📧 Email: vumazonkelumka@gmail.com  
-- 🏢 Solomon Mahlangu Senior Secondary School  
+- [View Evidence](user_stories_and_tasks/index.md)
+- [Reflection](user_stories_and_tasks/reflection.md)
 
----
+### 3. Product Backlog
 
-### Pastor Mncedisi Jimmy Nobadula  
-- 📞 Phone: +27 82 066 1354  
-- 🏢 New Apostolic Church  
+- [View Evidence](product_backlog/index.md)
+- [Reflection](product_backlog/reflection.md)
 
----
+### 4. Sprint Backlog
 
-## 🎥 Mock Interview Video
+- [View Evidence](sprint_backlog/index.md)
+- [Reflection](sprint_backlog/reflection.md)
 
-<div align="center">
-  <video width="600" controls preload="metadata">
-    <source src="mock-interview.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+### 5. Agile Logbook
 
----
-
-## Reflections
-
-### Mock Interview Video Experience
-
-Recording a mock interview was something I'd never done before and talking about myself 
-on camera, professionally, was completely out of my comfort zone. I had to answer 
-questions confidently, including questions about my strengths, while staying calm and 
-composed. So before hitting record, I sat down and genuinely thought about who I am 
-and what I bring to the table. It took several takes because I was speaking too fast 
-and losing composure at times, but I kept pushing through. I surprised myself though, 
-I finished it well. I walked away with more self awareness and a real 
-understanding that interviews are won in the preparation, not in the moment.
-
----
-
-### Coding in Markdown
-
-Ihave never written in Markdown before this project. Formatting a CV without Word or 
-Google Docs felt strange at first. Once I got my head around the syntax though, 
-headings, bullet points, bold text, it started clicking. I found a rhythm and it 
-became straightforward pretty quickly. What felt unfamiliar at the start became second 
-nature. I get now why developers use it. It's clean, efficient and it changed how I 
-think about presenting content.
-
----
-
-### GitHub Pages
-
-I knew how to build things but publishing them to the web was new to me. I had to 
-take my GitHub repo and make it live using GitHub Pages. I watched tutorials, worked 
-through the settings, I picked the right branch and kept troubleshooting until it was 
-live. Seeing my portfolio actually published online made everything feel real. 
-Deployment is a skill on its own and knowing how to take something from a repo to a 
-live site is something I'll carry with me going forward.
+- [View Evidence](agile_logbook/index.md)
+- [Reflection](agile_logbook/reflection.md)
