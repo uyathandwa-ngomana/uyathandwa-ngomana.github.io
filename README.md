@@ -39,25 +39,25 @@ My contribution included investigating backend errors and testing how the system
 
 ### 1. Agile Team Charter
 
-- [View Evidence](agile_team_charter/Evidence.md)
-- [Reflection](agile_team_charter/reflection.md)
+- [View Evidence](Agile-Team-Charter/Evidence.md)
+- [Reflection](Agile-Team-Charter/Reflection.md)
 
 ### 2. User Stories and Tasks
 
-- [View Evidence](user_stories_and_tasks/Evidence.md)
-- [Reflection](user_stories_and_tasks/reflection.md)
+- [View Evidence](User_stories_and_tasks/Evidence.md)
+- [Reflection](User_stories_and_tasks/Reflection.md)
 
 ### 3. Product Backlog
 
-- [View Evidence](product_backlog/Evidence.md)
-- [Reflection](product_backlog/reflection.md)
+- [View Evidence](Product-Backlog/Evidence.md)
+- [Reflection](Product-Backlog/Reflection.md)
 
 ### 4. Sprint Backlog
 
-- [View Evidence](sprint_backlog/Evidence.md)
-- [Reflection](sprint_backlog/reflection.md)
+- [View Evidence](Sprint_backlog/Evidence.md)
+- [Reflection](Sprint_backlog/Reflection.md)
 
 ### 5. Agile Logbook
 
-- [View Evidence](agile_logbook/Evidence.md)
-- [Reflection](agile_logbook/reflection.md)
+- [View Evidence](Agile-Logbook/Evidence.md)
+- [Reflection](Agile-Logbook/Reflection.md)
