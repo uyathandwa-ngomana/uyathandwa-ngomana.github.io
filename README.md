@@ -29,19 +29,6 @@ ProKonecta aims to make it easier for customers to find suitable professionals a
 
 My contribution included investigating backend errors and testing how the system works. This helped me understand the importance of backend reliability and checking application behaviour during development.
 
-## Technology Stack
-
-### Backend and Database
-
-- **Next.js** — Used for application development and backend API routes.
-- **PostgreSQL** — Used for database storage.
-- **REST APIs** — Support communication between the frontend and backend.
-
-### Development and Testing
-
-- **Git and GitHub** — Used for source control and project collaboration.
-- **Testing and debugging** — Used to investigate application behaviour and identify errors.
-
 ## Project Links
 
 - **GitHub Profile:** [uyathandwa-ngomana](https://github.com/uyathandwa-ngomana)
